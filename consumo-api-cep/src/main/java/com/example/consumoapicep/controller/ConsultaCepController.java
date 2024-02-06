@@ -13,7 +13,7 @@ public class ConsultaCepController {
     @GetMapping("{cep}")
     public String consultaCep(@PathVariable("cep") String cep){
         RestTemplate restTemplate = new RestTemplate();
-        
+
 
     }
 }

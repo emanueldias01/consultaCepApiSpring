@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/consumo-api-cep/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/consumo-api-cep/src/pom.xml" />
       </list>
     </option>
   </component>
